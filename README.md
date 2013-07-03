@@ -1,8 +1,9 @@
-Eydgahi et al. 2012 supplementary materials
+Eydgahi et al. 2013 supplementary materials
 ===========================================
 
-Code and data to support "A Bayesian parameter estimation and model
-discrimination approach to the biochemistry of apoptosis" by Eydgahi et al.
+Code and data to support Eydgahi, H. et al. Properties of cell death models
+calibrated and compared using Bayesian approaches. Mol Syst Biol 9, (2013).
+doi:10.1038/msb.2012.69
 
 The code supplied will perform one MCMC random walk for Bayesian
 estimation of the parameters of a previously published ODE-based model 
